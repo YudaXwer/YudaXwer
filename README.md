@@ -8,7 +8,7 @@
 <a href="#"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/YudaXwer"><img title="Author" src="https://img.shields.io/badge/Author-RAIHAN-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/YudaXwer"><img title="Author" src="https://img.shields.io/badge/Author-YudaXwer-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
   <a href="https://youtube.com/channel/UC62I9onSXyoweJ076dSCpkA"><img src="https://img.shields.io/badge/YouTube-Yuda Xwer-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&lihttps://youtube.com/c/YudaXwer" /></a>
